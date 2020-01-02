@@ -1,6 +1,8 @@
 # Kanaries
 
-Kanaries focus on visualization and data mining.
+Kanaries focus on Argumented Analytics and Automatic Visualization.
+
+![kanaries logo](https://chspace.oss-cn-hongkong.aliyuncs.com/logos/kanaries-light-bg.png)
 
 ## Solutions
 
